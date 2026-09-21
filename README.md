@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  <!-- Foto de perfil -->
-  <a href="https://github.com/aliciamaza">
-    <img src="https://github.com/aliciamaza.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #6366f1;" alt="Foto de Alicia" />
-  </a>
+ 
   
   <h1>ALICIA MAZA</h1>
   <p><b>Desarrollo de Aplicaciones Multiplataforma (DAM)</b></p>
@@ -70,25 +67,3 @@ Aquí puedes echar un vistazo a los repositorios en los que estoy trabajando y t
 
 ---
 -->
-
-### `>_ ESTADÍSTICAS_GITHUB`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliciamaza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliciamaza&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes principales" height="165" />
-</div>
-
----
-
-### `>_ CONTACTO`
-
-<div align="center">
-  <br>
-  <a href="mailto:tucorreo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="120" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/alicia-maza/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="120" alt="LinkedIn" />
-  </a>
-  <br>
-</div>
