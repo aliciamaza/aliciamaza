@@ -84,7 +84,7 @@ Aquí puedes echar un vistazo a los repositorios en los que estoy trabajando y t
 
 <div align="center">
   <br>
-  <a href="aliciaamazaa@gmail.com">
+  <a href="mailto:tucorreo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="120" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/alicia-maza/">
